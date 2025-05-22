@@ -1,5 +1,5 @@
 context:
-  version: "0.19.0"
+  version: "0.19.1"
 
 package:
   name: twiggy-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/twiggy-language-server/-/twiggy-language-server-${{ version }}.tgz
-  sha256: 825afe3e1217038555749d56317855b627e7299bf2b5eb5ede2b6318c58f7f1e
+  sha256: cdd57a59dccb7c346fae47c2dd00f1408c5ca0951c1253e2407f2e1b291cec74
 
 build:
   number: 0
